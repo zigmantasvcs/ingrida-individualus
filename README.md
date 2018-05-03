@@ -8,7 +8,7 @@
 
 ## Kurso preliminarus kalendorius
 
-* Gegužė (3, 4, toliau derinama bus. Jeigu įmanoma po 3 valandas vienam susitikimui, bet galima lanskčiai)
+* Gegužė (3, 8, toliau gal savaitgalis?)
 
 ## Tai ką bandysime perprasti
 
