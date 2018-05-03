@@ -2,11 +2,11 @@
 
 ## Video
 
-[YouTube irasas](https://youtu.be/ZSKKTvVGFfk)
+[YouTube irasas](https://youtu.be/SXfcvVowH18)
 
 ## Paskaitos turinys
 
-1. [Skaidres](https://github.com/zigmantasvcs/20180329VCSWEBVAKARINIAI/blob/master/skaidres/paskaita-1.pdf)
+1. [Skaidres](https://github.com/zigmantasvcs/ingrida-individualus/blob/master/skaidres/01_HTML.pdf)
 
 * HTML ivadas
 * Kas tai yra HTML
@@ -15,6 +15,11 @@
 * Tekstas
 * Sarasai
 * Nuorodos 
+* Paveikslëliai
+* Lentelës
+* Video
+* Audio
+* SVG
 
 2. [Papildomai HTML] (https://www.w3schools.com/html/default.asp)
 
