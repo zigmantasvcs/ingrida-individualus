@@ -8,7 +8,7 @@
 
 ## Kurso preliminarus kalendorius
 
-* Gegužė (3, 8, toliau gal savaitgalis?)
+* Gegužė (3, 8, 11, ..)
 
 ## Tai ką bandysime perprasti
 
