@@ -1,0 +1,28 @@
+.box{
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  visibility: visible;
+  display: none;
+}
+.box1{
+  width: 100px;
+  height: 100px;
+  background-color: green;
+  visibility: visible;
+  opacity: 0.5;
+}
+
+.box3{
+  width: 100px;
+  height: 100px;
+  background-image: url(../images/animal.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+  visibility: visible;
+  float: left;
+  border-radius: 50px;
+}
+.box3:hover{
+  opacity: 0.5;
+}

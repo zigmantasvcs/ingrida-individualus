@@ -1,0 +1,9 @@
+.box{
+  width: 80%;
+  border: 1px solid black;
+  min-width: 450px;
+}
+img{
+  width: 100%;
+  max-width: 800px;
+}

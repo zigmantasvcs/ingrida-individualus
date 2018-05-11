@@ -1,0 +1,19 @@
+.box{
+  width: 500px;
+  height: 500px;
+  display: table;
+}
+.childbox{
+  width: 100px;
+  height: 100px;
+  display: table-cell;
+  vertical-align: middle;
+}
+.grandchildbox{
+  width: 100px;
+  margin: auto;
+  text-align: center;
+}
+[class$=box]{
+  border: 1px solid black;
+}

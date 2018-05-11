@@ -1,0 +1,10 @@
+.fixed{
+  position: fixed;
+  width: 100px;
+  height: 50px;
+  background-color: white;
+  transform: rotate(270deg);
+}
+.container{
+  margin-left: 100px;
+}
